@@ -17,6 +17,7 @@ function App() {
 				<h3 style={{color: '#1ECC9F'}} >свозить В МАК</h3>
 				<h3 style={{color: '#C121D4'}} >уСТРОЙИТЬ	нагоняй ПАТЛАТОМУ</h3>
 				<h3 style={{color: '#C121D4'}} >ВАША УСЛУГА - <a  target="_blank" href='https://web.telegram.org/a/#383988124'>ТЕЛЕГРАМ @toxakrut</a></h3>
+				<h3 style={{color: '#21D437', fontSize: '30px'}} >@tohakrut</h3>
 				+7 981 442 1175
 				<br/>
       </header>
